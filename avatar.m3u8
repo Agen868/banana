@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=8800000,NAME="1"
+https://vod1.stream25.com/Avatar-3-Fire-and-Ash-2025-tha.mp4.m3u8
