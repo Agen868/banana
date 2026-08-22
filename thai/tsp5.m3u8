@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=8800000,NAME="1"
+https://doodii-1.akamomo558.top/xstream/ts05/chunks.m3u8
