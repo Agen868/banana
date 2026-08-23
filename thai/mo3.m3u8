@@ -3,4 +3,4 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=35000000,NAME="1"
-http://108.175.0.226:5080/live/streams/monomax2.m3u8
+https://iptv-ku.ultratwo.workers.dev/
