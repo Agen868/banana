@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=8800000,NAME="1"
+http://eu.kartal38.com:8080/play/live.php?mac=00:1A:79:AD:FC:C3&stream=1101309&extension=m3u8
